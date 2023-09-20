@@ -1,0 +1,59 @@
+img{
+    width: 300px;
+}
+.Finger{
+    text-align: center;
+    color: blueviolet;
+    font-family: impact,sans-serif;
+}
+body{
+    font-family: Arial, Helvetica;
+    background-color: white;
+}
+.menu{
+    list-style: none;
+    padding: 0%;
+    background-color: red;
+    width: 90%;
+    margin: auto;
+    max-width: 1000px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{ 
+    display: inline-block;
+    text-align: center;
+}
+.Inicio{
+    text-align: center
+
+}
+.Que{
+    font-family: impact,sans-serif;
+}
+.Destacados
+{
+    text-align: center;
+}
+.divuno{
+    display: flex
+}
+.Producto{
+    text-align: center;
+}
+.Contacto{
+    text-align: center;
+}
+.divdos{
+    display: block
+}
+.Videos{
+    text-align: center;
+}
+
+    
+
